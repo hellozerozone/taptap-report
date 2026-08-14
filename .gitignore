@@ -1,0 +1,6 @@
+# 本仓库仅用于 GitHub Pages 部署，只跟踪 docs/ 目录
+*
+!.gitignore
+!docs/
+!docs/**
+!README.md
