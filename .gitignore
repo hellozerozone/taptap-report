@@ -1,6 +1,10 @@
-# 本仓库仅用于 GitHub Pages 部署，只跟踪 docs/ 目录
+# 本仓库只跟踪 docs/（页面）、source/（开源代码与数据）、README、LICENSE
 *
 !.gitignore
 !docs/
 !docs/**
+!source/
+!source/**
 !README.md
+!LICENSE
+.DS_Store
